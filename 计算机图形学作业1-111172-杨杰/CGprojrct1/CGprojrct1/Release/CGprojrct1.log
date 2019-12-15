@@ -1,0 +1,27 @@
+﻿  glCanvas.cpp
+  main.cpp
+  matrix.cpp
+C:\Users\杨杰\source\repos\CGprojrct1\CGprojrct1\matrix.cpp(337,1): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message :  参见“fscanf”的声明
+C:\Users\杨杰\source\repos\CGprojrct1\CGprojrct1\matrix.cpp(350,1): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  spline_parser.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message :  参见“fscanf”的声明
+C:\Users\杨杰\source\repos\CGprojrct1\CGprojrct1\spline_parser.cpp(18,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\杨杰\source\repos\CGprojrct1\CGprojrct1\spline_parser.cpp(200,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\杨杰\source\repos\CGprojrct1\CGprojrct1\spline_parser.cpp(212,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\杨杰\source\repos\CGprojrct1\CGprojrct1\spline_parser.cpp(230,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\杨杰\source\repos\CGprojrct1\CGprojrct1\spline_parser.cpp(242,1): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message :  参见“fscanf”的声明
+C:\Users\杨杰\source\repos\CGprojrct1\CGprojrct1\spline_parser.cpp(253,1): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message :  参见“fscanf”的声明
+C:\Users\杨杰\source\repos\CGprojrct1\CGprojrct1\spline_parser.cpp(264,1): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message :  参见“fscanf”的声明
+C:\Users\杨杰\source\repos\CGprojrct1\CGprojrct1\spline_parser.cpp(275,1): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message :  参见“fscanf”的声明
+C:\Users\杨杰\source\repos\CGprojrct1\CGprojrct1\spline_parser.cpp(286,1): error C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  triangle_mesh.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message :  参见“fscanf”的声明
