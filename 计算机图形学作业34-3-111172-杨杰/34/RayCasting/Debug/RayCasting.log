@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  image.cpp
+  main.cpp
+C:\Users\layer\Desktop\RayCasting-Assignment2-master\RayCasting\camera.h(75,38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\layer\Desktop\RayCasting-Assignment2-master\RayCasting\main.cpp(50,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\layer\Desktop\RayCasting-Assignment2-master\RayCasting\main.cpp(52,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  matrix.cpp
+  scene_parser.cpp
+C:\Users\layer\Desktop\RayCasting-Assignment2-master\RayCasting\main.cpp(104,66): warning C4305: “参数”: 从“int”到“float”截断
+C:\Users\layer\Desktop\RayCasting-Assignment2-master\RayCasting\camera.h(75,38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\layer\Desktop\RayCasting-Assignment2-master\RayCasting\scene_parser.cpp(125,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\layer\Desktop\RayCasting-Assignment2-master\RayCasting\scene_parser.cpp(426,39): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\layer\Desktop\RayCasting-Assignment2-master\RayCasting\scene_parser.cpp(428,39): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\layer\Desktop\RayCasting-Assignment2-master\RayCasting\scene_parser.cpp(430,39): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+C:\Users\layer\Desktop\RayCasting-Assignment2-master\RayCasting\scene_parser.cpp(435,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  RayCasting.vcxproj -> C:\Users\layer\Desktop\RayCasting-Assignment2-master\Debug\RayCasting.exe
